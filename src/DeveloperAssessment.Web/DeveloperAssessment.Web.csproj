@@ -3,4 +3,17 @@
   <PropertyGroup>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\" />
+    <Folder Include="wwwroot\UploadedFiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\UploadedFiles\04012025202817-tree.jpeg" />
+  </ItemGroup>
+
 </Project>

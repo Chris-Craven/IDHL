@@ -20,3 +20,13 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+/*Make separate css file in real project*/
+.blogcard {
+  height: 364px;
+}
+
+.cardimg {
+  height: 300px;
+  width: 300px;
+}

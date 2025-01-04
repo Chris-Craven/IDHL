@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Blogs";
+}
+
+<h1>Blogs</h1>
+
+<div class="row">
+    @foreach (var blog in Model)
+    {
+        <div class="col-md-3">
+            <a href="@Url.Action("BlogDetails", "Blog", new { id = @blog.Id })">
+                <div class="card blogcard">
+                    <img src="@blog.Image" class="cardimg" alt="https://www.freeimages.com/clipart/study-kit-flat-png-design-5690859"/>
+                    <div class="container">
+                        <p>@blog.Title</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    }
+</div>
