@@ -24,6 +24,6 @@ Ensure your solution is well-organised and follows best practices.
 
 Submit your completed solution via a GitHub repository.
 
-##Chris' Notes
+**##Chris' Notes**
 
 Current URL's not working, so used substitues
