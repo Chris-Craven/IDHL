@@ -26,4 +26,4 @@ Submit your completed solution via a GitHub repository.
 
 ## Chris' Notes
 
-Current URL's not working, so used substitues
+Current image URL's not working, so used substitues
