@@ -23,3 +23,7 @@ We have two assessments designed for different skill levels: one for junior deve
 Ensure your solution is well-organised and follows best practices.
 
 Submit your completed solution via a GitHub repository.
+
+##Chris' Notes
+
+Current URL's not working, so used substitues
